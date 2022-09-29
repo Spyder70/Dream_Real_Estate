@@ -1,0 +1,13 @@
+Model Outputs
+
+1.Decision Tree
+Mean: 4.225336345743704
+Standard deviation: 0.7978143677179815
+
+
+2.Linear is not so effiecnt in this case.
+
+
+3. RandomprocessRegressor
+Mean: 3.3849209494992722
+Standard deviation: 0.7148382343661175
